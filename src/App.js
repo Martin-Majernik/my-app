@@ -9,7 +9,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        This is new text for test
+        This is new text for test This is even never text for additional test,
+        hope it wokrss
         <a
           className="App-link"
           href="https://reactjs.org"
